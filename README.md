@@ -13,3 +13,12 @@ Bu proje dna, protein dizilimleri gibi kendinizin belirleyeceği veriseti içeri
 Hizalama ve arama için Blast, Blat, Soap2 ve Pairwise2 algoritmaları kullanılmıştır. İstenilen algoritma ile işlem gerçekleştirilebilir. Bu sayede algoritmaların
 performansları ve aralarındaki farkın karşılaştırılması yapılabilmektedir. Sonuçlar yerel bir web sayfasında  gösterilmektedir. Bu sayfada algoritmanın çalışma süresi,
 aranan sekans ile eşleşen kısım, eşleşmenin ait olduğu veriseti bilgileri ve indeksleri yer almaktadır.
+
+## Bağımlılıklar
+- Python3
+- Biopython/Bioconda
+- Blast API
+
+## Uyumlu İşletim Sistemi
+- linux-64
+- osx-64
